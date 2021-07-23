@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: #f9b208;
+}
+.menu_title {
+  display: flex;
+}
